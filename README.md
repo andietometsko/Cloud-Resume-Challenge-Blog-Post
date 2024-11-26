@@ -1,7 +1,6 @@
 # Cloud Resume Challenge 
 
-I recently completed the Cloud Resume Challenge, a hands-on cloud engineering project that required me to build, deploy, and maintain a fully functional resume website using AWS.  
-This project gave me experience with a full suite of cloud tools, implementing infrastructure as code, and practice with continuous integration and continuous deployment. The process was a large learning curve and rewarding, allowing me to deepen my understanding of cloud technologies, automation, and modern software development workflows. In this blog post, I break down the process of setting up a static website on AWS by working through the Frontend, Backend, and Infrastructure to develop it. This summary isn’t simply about how to create a static site, but about how these key services on AWS interact with each other.
+I recently completed the Cloud Resume Challenge, a hands-on cloud engineering project that required me to build, deploy, and maintain a fully functional resume website using AWS. This project gave me experience with a full suite of cloud tools, implementing infrastructure as code, and practice with continuous integration and continuous deployment. The process was a large learning curve and rewarding, allowing me to deepen my understanding of cloud technologies, automation, and modern software development workflows. In this blog post, I break down the process of setting up a static website on AWS by working through the Frontend, Backend, and Infrastructure to develop it. This summary isn’t simply about how to create a static site, but about how these key services on AWS interact with each other.
 
 ---
 
